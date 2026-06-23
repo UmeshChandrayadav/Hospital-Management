@@ -21,6 +21,7 @@ hospital\management\dao\PrescriptionDao.class
 hospital\management\repository\PatientRepository.class
 hospital\management\repository\MedicalRecordRepository.class
 hospital\management\controller\DoctorController.class
+hospital\management\controller\HomeController.class
 hospital\management\repository\DoctorRepository.class
 hospital\management\exception\NoRecordAvailableException.class
 hospital\management\enums\Gender.class

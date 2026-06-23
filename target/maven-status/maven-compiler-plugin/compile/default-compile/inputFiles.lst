@@ -21,6 +21,7 @@ C:\Users\umesh\Downloads\hospital management\hospital-management\src\main\java\h
 C:\Users\umesh\Downloads\hospital management\hospital-management\src\main\java\hospital\management\exception\NoRecordAvailableException.java
 C:\Users\umesh\Downloads\hospital management\hospital-management\src\main\java\hospital\management\entity\MedicalRecord.java
 C:\Users\umesh\Downloads\hospital management\hospital-management\src\main\java\hospital\management\entity\Department.java
+C:\Users\umesh\Downloads\hospital management\hospital-management\src\main\java\hospital\management\controller\HomeController.java
 C:\Users\umesh\Downloads\hospital management\hospital-management\src\main\java\hospital\management\exception\GlobalExceptionHandling.java
 C:\Users\umesh\Downloads\hospital management\hospital-management\src\main\java\hospital\management\service\MedicalRecordService.java
 C:\Users\umesh\Downloads\hospital management\hospital-management\src\main\java\hospital\management\HospitalManagementApplication.java
