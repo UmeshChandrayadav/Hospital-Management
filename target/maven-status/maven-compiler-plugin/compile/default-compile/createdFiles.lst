@@ -3,11 +3,13 @@ hospital\management\repository\DepartmentRepository.class
 hospital\management\repository\PrescriptionRepository.class
 hospital\management\HospitalManagementApplication.class
 hospital\management\entity\Prescription.class
+hospital\management\config\CorsConfig$1.class
 hospital\management\entity\Doctor.class
 hospital\management\exception\GlobalExceptionHandling.class
 hospital\management\dao\DepartmentDao.class
 hospital\management\entity\MedicalRecord.class
 hospital\management\dao\AppointmentDao.class
+hospital\management\config\CorsConfig.class
 hospital\management\service\PrescriptionService.class
 hospital\management\service\DepartmentService.class
 hospital\management\service\MedicalRecordService.class

@@ -12,6 +12,7 @@ C:\Users\umesh\Downloads\hospital management\hospital-management\src\main\java\h
 C:\Users\umesh\Downloads\hospital management\hospital-management\src\main\java\hospital\management\service\DepartmentService.java
 C:\Users\umesh\Downloads\hospital management\hospital-management\src\main\java\hospital\management\controller\PrescriptionController.java
 C:\Users\umesh\Downloads\hospital management\hospital-management\src\main\java\hospital\management\repository\DepartmentRepository.java
+C:\Users\umesh\Downloads\hospital management\hospital-management\src\main\java\hospital\management\config\CorsConfig.java
 C:\Users\umesh\Downloads\hospital management\hospital-management\src\main\java\hospital\management\controller\DepartmentController.java
 C:\Users\umesh\Downloads\hospital management\hospital-management\src\main\java\hospital\management\dao\MedicalRecordDao.java
 C:\Users\umesh\Downloads\hospital management\hospital-management\src\main\java\hospital\management\exception\IdNotFoundException.java
