@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 2026/07/02-18:42:47.754 2a90 Reusing MANIFEST C:\Users\Rohit\Downloads\Hospital-Management-main\Hospital-Management-main\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Sync Data\LevelDB/MANIFEST-000001
 2026/07/02-18:42:47.757 2a90 Recovering log #3
 2026/07/02-18:42:47.757 2a90 Reusing old log C:\Users\Rohit\Downloads\Hospital-Management-main\Hospital-Management-main\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Sync Data\LevelDB/000003.log 
+=======
+2026/06/23-06:32:37.947 33fc Creating DB C:\Users\umesh\Downloads\hospital management\hospital-management\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Sync Data\LevelDB since it was missing.
+2026/06/23-06:32:37.972 33fc Reusing MANIFEST C:\Users\umesh\Downloads\hospital management\hospital-management\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Sync Data\LevelDB/MANIFEST-000001
+>>>>>>> b3f9418b29c7933702adee0120ac971543f31f83

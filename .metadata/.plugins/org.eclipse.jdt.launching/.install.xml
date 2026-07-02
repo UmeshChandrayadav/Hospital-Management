@@ -2,7 +2,11 @@
 <dirs>
     <entry loc="C:\Users\umesh\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_21.0.9.v20251105-0741\jre" stamp="1765325903632"/>
     <entry loc="C:\Users\umesh\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_21.0.9.v20251105-0741" stamp="1765325903634"/>
+<<<<<<< HEAD
     <entry loc="C:\Users\Rohit\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_21.0.9.v20251105-0741" stamp="1767853537165"/>
     <entry loc="C:\Program Files\Java\jdk-21" stamp="1765325202118"/>
     <entry loc="C:\Users\Rohit\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_21.0.9.v20251105-0741\jre" stamp="1767853537162"/>
+=======
+    <entry loc="C:\Program Files\Java\jdk-21" stamp="1765325202118"/>
+>>>>>>> b3f9418b29c7933702adee0120ac971543f31f83
 </dirs>
